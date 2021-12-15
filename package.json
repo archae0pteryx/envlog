@@ -1,0 +1,10 @@
+{
+  "name": "envlog",
+  "version": "1.0.0",
+  "description": "Switch logging depending on env",
+  "main": "./lib/index.js",
+  "repository": "https://github.com/archae0pteryx/envlog",
+  "author": "Ryan Lewis",
+  "license": "MIT",
+  "private": false
+}
